@@ -17,4 +17,4 @@ number = random.randrange(0, 100)
 special_char = random.choice(string.punctuation)
 
 password = adjective + noun + str(number) + special_char
-print("You Password is : %s" % password)
+print("Your Password is : %s" % password)
